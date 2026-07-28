@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
