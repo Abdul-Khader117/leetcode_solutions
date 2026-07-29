@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0509-fibonacci-number) |
