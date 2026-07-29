@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
