@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0704-binary-search) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
