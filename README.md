@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0055-jump-game) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0268-missing-number) |
