@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Divide and Conquer
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
