@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0287-find-the-duplicate-number) |
