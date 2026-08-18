@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -225,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
