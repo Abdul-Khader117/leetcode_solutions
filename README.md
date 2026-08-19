@@ -236,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
