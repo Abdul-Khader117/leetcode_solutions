@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Memoization
 |  |
 | ------- |
