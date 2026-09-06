@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0242-valid-anagram) |
@@ -264,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
