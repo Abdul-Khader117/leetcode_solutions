@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
