@@ -1,35 +1,26 @@
 class Solution {
-    static final int INT_MIN_VAL = -2147483648;
-    static final int INT_MAX_VAL = 2147483647;
-    static int helper(String s, int i, long num, int sign) {
-        if (i >= s.length() || !Character.isDigit(s.charAt(i)))
-            return (int)(sign * num);
-
-        // Update num
-        num = num * 10 + (s.charAt(i) - '0');
-
-        // Clamp overflow
-        if (sign * num <= INT_MIN_VAL) return INT_MIN_VAL;
-        if (sign * num >= INT_MAX_VAL) return INT_MAX_VAL;
-
-        // Recurse
-        return helper(s, i + 1, num, sign);
-    }
-
-    static int myAtoi(String s) {
-        int i = 0;
-
-        // Skip whitespaces
-        while (i < s.length() && s.charAt(i) == ' ') i++;
-
-        // Handle sign
+    public int myAtoi(String s) {
+        int i = 0, n = s.length();
+        while (i < n && s.charAt(i) == ' '){
+            i++;
+        }
         int sign = 1;
-        if (i < s.length() && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
+        if (i < n && (s.charAt(i) == '+' || s.charAt(i) == '-')) {
             sign = (s.charAt(i) == '-') ? -1 : 1;
             i++;
         }
-
-        // Recursive helper
-        return helper(s, i, 0, sign);
+        long result = 0;
+        while (i < n && Character.isDigit(s.charAt(i))) {
+            int digit = s.charAt(i) - '0';
+            result = result * 10 + digit;
+            if (sign == 1 && result > Integer.MAX_VALUE) {
+                return Integer.MAX_VALUE;
+            }
+            if (sign == -1 && -result < Integer.MIN_VALUE) {
+                return Integer.MIN_VALUE;
+            }
+            i++;
+        }
+        return (int) result * sign;
     }
 }
