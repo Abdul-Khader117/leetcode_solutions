@@ -8,10 +8,10 @@ class Solution {
                 char c = s.charAt(j);
                 freq[c - 'a']++;
                 int maxfreq = 0, minfreq = Integer.MAX_VALUE;
-                for(int f : freq){
-                    if(f > 0){
-                        maxfreq = Math.max(maxfreq, f);
-                        minfreq = Math.min(minfreq, f);
+                for(int k=0; k<26; k++){
+                    if(freq[k] > 0){
+                        maxfreq = Math.max(maxfreq, freq[k]);
+                        minfreq = Math.min(minfreq, freq[k]);
                     }
                 }
                 totalbeauty += (maxfreq - minfreq);
