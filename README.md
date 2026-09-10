@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Quickselect
 |  |
 | ------- |
