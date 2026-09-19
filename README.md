@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -306,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Abdul-Khader117/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
